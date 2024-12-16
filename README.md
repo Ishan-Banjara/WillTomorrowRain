@@ -1,3 +1,4 @@
+# **Introduction***
 Ever wonder if you need to carry umbrella tomorrow? This project compares three Machine Learning Models: k-Nearest Neighbor Classifier, Random Forest Classifier, and Artificial Neural Network.
 
 The study is based on following steps:
